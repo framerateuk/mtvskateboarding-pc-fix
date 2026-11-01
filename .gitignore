@@ -1,0 +1,14 @@
+# Only the kit's own files: nothing from the game (a built MTVSkateboarding/ folder included) or other downloads
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/build.py
+!/patch_exe.py
+!/caves.s
+!/make_raw_avi.py
+!/disc.py
+!/config/
+!/docs/
+!/steamdeck/
+__pycache__/
